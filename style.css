@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+p+span {
+  background-color: red;
+}
+/* span.o{
+  color: white;
+} */
